@@ -1,0 +1,56 @@
+html {
+	background-color: #d65cbe
+}
+
+body {
+	background: none;
+	color: #69707a;
+	font-family: "open sans", Arial, sans-serif;
+}
+
+strong {
+	color: #222324;
+}
+
+.navbar {
+	background: #d6d05c;
+}
+
+.btn {
+	font-weight: 300;
+}
+
+.btn-primary {
+	background: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+	background: #e05164 ;
+	border-color: #e05164;
+}
+
+.card {
+	border-color: #ccc;
+}
+
+.card-title {
+	color: #e16879;
+	font-weight: 300;
+}
+.card-block small {
+	float: right;
+}
+
+.description {
+	background-image: url("http://littlefun.org/uploads/51f7251dc8561126be000027_736.jpg");
+}
+
+/* Additional stuff for mysiteo.html page */
+.jumbotron {
+	background-image: url ("http://littlefun.org/uploads/51f7251dc8561126be000027_736.jpg");
+	background-size: cover;
+	color: white;
+}
